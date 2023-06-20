@@ -30,13 +30,13 @@
     display:block;
   }
   .hairTwo {
-    display:none;
+    display:block;
   }
   .hairThree {
     display:block;
   }
   .logo {
-    display:block;
+    display:none;
     height:190px;
 
   }
@@ -52,13 +52,13 @@
     display:block;
   }
   .hairTwo {
-    display:none;
+    display:block;
   }
   .hairThree {
     display:none;
   }
   .logo {
-    display:block;
+    display:none;
     height:190px;
 
   }
