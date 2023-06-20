@@ -81,7 +81,7 @@
   height: 34vh;
   border-width: 0.2px;
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
 .btnContainer {
   border: solid grey;
